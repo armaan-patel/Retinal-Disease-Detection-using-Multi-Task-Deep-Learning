@@ -93,6 +93,14 @@ The inclusion of **Grad-CAM** provides transparent visualization of the regions 
 
 ---
 
+## How to Run
+
+Import test, train, and valid folders from the Kaggle link into the same folder as Retinal_Disease_Detection.ipynb and run the notebook to go through the process of training and testing and creating the model files and test_predictions.csv file.
+
+(Note: Prior to running, verify all libraries are installed.)
+
+---
+
 ## 📜 Acknowledgments
 
 - **Dataset:** [Kaggle — Retinal Disease Detection](https://www.kaggle.com/datasets/mohamedabdalkader/retinal-disease-detection) by Mohamed Abdalkader.  
